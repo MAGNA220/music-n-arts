@@ -132,8 +132,9 @@ p {
         margin-left: 73px;
     }
      #p2{
-        padding-left: 10px;
-        padding-right: 10px;
+        padding-left: 15px;
+        padding-right: 15px;
+        text-align: center;
         font-size: 10px;
     }
     #vid{
