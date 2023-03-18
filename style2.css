@@ -120,7 +120,7 @@ header{
         display: inline-block;
         font-size: 12px;
         padding: 5px;
-        place-items: center;
+        text-align: center;
     }
 
     .photos img{
