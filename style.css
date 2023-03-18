@@ -135,27 +135,32 @@ p {
         padding-left: 15px;
         padding-right: 15px;
         text-align: center;
-        font-size: 10px;
+        font-size: 15px;
     }
     #vid{
         margin-left: 15px;
     }
 }
-    /*@media(min-width: 481px) and (max-width: 768px){
+    @media(min-width: 481px){
         html, body, .main, .container{
             width: 100%;
         }
         .nav_links li, nav, nav ul li, ul li a{
             display: inline-block;
             padding: 10px;
-            font-size: 15px;
+            font-size: 5px;
         }
         #p1{
-            font-size: 35px;
-            margin-top: 25px;
-            margin-left: 80px;
+            font-size: 25px;
+            margin-top: 15px;
+            margin-left: 70px;
         }
-        
+        #p2{
+        padding-left: 10px;
+        padding-right: 10px;
+        text-align: center;
+        font-size: 10px;
+        }
         #vid{
             margin-left: 0;
-        }*/
+        }
