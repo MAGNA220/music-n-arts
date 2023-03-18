@@ -111,7 +111,7 @@ header{
     color: rgb(43, 34, 2);
 }
 
-@media(max-width: 481px){
+@media(max-width: 600px){
     html, body, .main, .container{
         width: 100%;
         margin: 0;
