@@ -1,9 +1,6 @@
 *{
     box-sizing: border-box;
 }
-html> body{
-    height: 98%;
- }
  body{
     padding: 1%;
     margin: 0;
@@ -134,6 +131,9 @@ p {
         margin-top: 20px;
         margin-left: 73px;
     }
+     #p2{
+             text-align: justify;
+    }
     #vid{
         margin-left: 15px;
     }
@@ -152,6 +152,7 @@ p {
             margin-top: 25px;
             margin-left: 80px;
         }
+        
         #vid{
             margin-left: 0;
         }*/
