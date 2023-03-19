@@ -128,7 +128,7 @@ p {
   }*/
   @media(max-width: 600px){
     html, body, .main, .container{
-        width: 100%;
+        width: 110%;
         margin: 0;
     }
     .nav_links li, nav, nav ul li, ul li a{
@@ -140,7 +140,6 @@ p {
         float: none;
         padding-top: 0;
         margin-left: 10px;
-        margin-right: 10px;
     }
     #p1{
         text-align: justify;
@@ -155,5 +154,4 @@ p {
     #img2 {
         float: none;
         margin-left: 10px;
-        margin-right: 10px;
     }
