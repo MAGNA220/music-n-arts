@@ -118,29 +118,3 @@ p {
     border-bottom: 10px;
     color: rgb(43, 34, 2);
 }
-
-@media (max-width: 600px) {
-    html, body, .main, .container {
-        width: 100%;
-        margin: 0;
-    }
-    .nav_links li, nav, nav ul li, ul li a{
-        display: inline-block;
-        font-size: 12px;
-        padding: 5px;
-    }
-    #p1{
-        font-size: 30px;
-        margin-top: 20px;
-        margin-left: 73px;
-    }
-     #p2{
-        padding-left: 15px;
-        padding-right: 15px;
-        text-align: center;
-        font-size: 15px;
-    }
-    #vid{
-        margin-left: 15px;
-    }
-}
