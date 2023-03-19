@@ -135,11 +135,11 @@ header{
         font-size: 8px;    
     }
 }
- @media(min-width: 481px){
+/* @media(min-width: 481px){
         html, body, .main, .container{
             width: 100%;
         }
      .main {
         height: 2560px;
     }
-}
+}*/
