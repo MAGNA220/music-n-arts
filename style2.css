@@ -75,7 +75,7 @@ header{
     padding: 10px;
     text-align: center;
     font-size: 15px;    
-    text-shadow: 0 0 5px rgb(242, 234, 234);
+    /*text-shadow: 0 0 5px rgb(242, 234, 234);*/
 }
 .arts {
     padding: 0 6px;
@@ -127,7 +127,7 @@ header{
         height: 140px;
     }
     .main {
-        height: 2555px;
+        height: 2520px;
     }
     .desc {
         padding: 3px;
@@ -135,11 +135,4 @@ header{
         font-size: 8px;    
     }
 }
-/* @media(min-width: 481px){
-        html, body, .main, .container{
-            width: 100%;
-        }
-     .main {
-        height: 2560px;
-    }
-}*/
+   
