@@ -122,11 +122,8 @@ p {
     border-bottom: 10px;
     color: rgb(43, 34, 2);
 }
-/*@media screen and (max-width: 800px) {
-    .left, .main, .right {
-      width: 100%;
-  }*/
-  @media(max-width: 600px){
+
+/*  @media(max-width: 600px){
     html, body, .main, .container{
         width: 100%;
         margin: 0;
@@ -186,5 +183,5 @@ p {
         float: none;
         margin-left: 10px;
     }
-} 
+} */
         
