@@ -118,7 +118,7 @@ p {
     border-bottom: 10px;
     color: rgb(43, 34, 2);
 }
-@media (max-width: 600px) {
+/*@media (max-width: 600px) {
     html, body, .main, .container {
         width: 100%;
         margin: 0;
@@ -142,9 +142,9 @@ p {
     #vid{
         margin-left: 15px;
     }
-}
+}*/
 
-/* @media(min-width: 481px){
+ @media(min-width: 481px){
         html, body, .main, .container{
             width: 100%;
         }
@@ -167,4 +167,4 @@ p {
         #vid{
             margin-left: 0;
         }
-}*/
+}
