@@ -144,11 +144,12 @@ p {
     }
     #p1{
         text-align: justify;
+        margin-left: 10px;
         padding-top: 0;
     }
     p{
         padding-top: 10px;
-        margin-left: 5px;
+        margin-left: 10px;
         padding-right: 5px;
         
     }
