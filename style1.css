@@ -140,6 +140,7 @@ p {
         float: none;
         padding-top: 0;
         margin-left: 10px;
+        margin-right: 10px;
     }
     #p1{
         text-align: justify;
@@ -154,5 +155,6 @@ p {
     #img2 {
         float: none;
         margin-left: 10px;
+        margin-right: 10px;
     }
 }
