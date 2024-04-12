@@ -137,7 +137,9 @@ p {
         padding: 5px;
     }
       .main {
-        width: 102%;
+        width: 100%;
+        height: 100vh; /* Example: Adjust height to fit the screen */
+    overflow: auto; 
     }
     #img1 {
         float: none;
