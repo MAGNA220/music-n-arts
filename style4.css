@@ -145,3 +145,9 @@ p {
     overflow: auto; /* Example: Add overflow for scrolling if content exceeds screen */
   }
 }
+ @media(max-width: 728px){
+   .main{
+        width: 100%;
+        margin: 0;
+    }
+ }
