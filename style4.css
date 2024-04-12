@@ -134,16 +134,17 @@ p {
         font-size: 12px;
         padding: 5px;
     }
-    .main {
-        .main {
-    /* Your styles for landscape orientation */
-    width: 100%; /* Example: Adjust width to fit the screen */
-    height: 100vh; /* Example: Adjust height to fit the screen */
-    overflow: auto; /* Example: Add overflow for scrolling if content exceeds screen */
-    }
+           
     .hero {
         width:340px;
         margin-left: 12px;
       }
 }
-      
+      @media screen and (orientation: landscape) {
+  .main {
+    /* Your styles for landscape orientation */
+    width: 100%; /* Example: Adjust width to fit the screen */
+    height: 100vh; /* Example: Adjust height to fit the screen */
+    overflow: auto; /* Example: Add overflow for scrolling if content exceeds screen */
+  }
+}
