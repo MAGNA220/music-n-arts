@@ -12,7 +12,7 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .main {
-    width: 910px;
+    width: 900px;
     margin: auto;
     display: flexbox;
     background-color: #f1c27d;
@@ -137,7 +137,7 @@ p {
         padding: 5px;
     }
       .main {
-        width: 100%;
+        width: 102%;
     }
     #img1 {
         float: none;
