@@ -135,7 +135,11 @@ p {
         padding: 5px;
     }
     .main {
-        height: 950px;
+        .main {
+    /* Your styles for landscape orientation */
+    width: 100%; /* Example: Adjust width to fit the screen */
+    height: 100vh; /* Example: Adjust height to fit the screen */
+    overflow: auto; /* Example: Add overflow for scrolling if content exceeds screen */
     }
     .hero {
         width:340px;
