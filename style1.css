@@ -127,7 +127,7 @@ p {
       width: 100%;
   }*/
   @media(max-width: 600px){
-    html, body, .main, .container{
+    html, body, .container{
         width: 100%;
         margin: 0;
     }
