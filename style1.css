@@ -13,12 +13,10 @@ body{
 }
 .main {
     width: 900px;
-    height: 100vh;
     margin: auto;
     display: flexbox;
     flex-direction: column; /* Stack child elements vertically */
     align-items: center; /* Center child elements horizontally */
-    justify-content: center; /* Center child elements vertically */
     background-color: #f1c27d;
 }
 .container {
