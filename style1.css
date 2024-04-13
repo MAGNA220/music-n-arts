@@ -138,7 +138,8 @@ p {
     }
       .main {
         width: 100vw;/* Adjust max-width for landscape orientation */
-    }
+        display: flex;
+      }
     #img1 {
         float: none;
         padding-top: 0;
