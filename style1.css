@@ -138,6 +138,7 @@ p {
     }
       .main {
         width: 100vw;/* Adjust max-width for landscape orientation */
+        padding-right: 20px;
       }
     #img1 {
         float: none;
@@ -164,6 +165,6 @@ p {
 }
 
 @media (max-width: 728){
-    .main{width: max-content;
+    .main{width: fit-content;
          }
 }
