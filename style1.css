@@ -13,7 +13,7 @@ body{
 }
 .main {
     width: 900px;
-   /* margin: auto;*/
+    margin: auto;
     display: flexbox;
     flex-direction: column; /* Stack child elements vertically */
     align-items: center; /* Center child elements horizontally */
@@ -21,7 +21,6 @@ body{
 }
 .container {
     width: 100%;
-    max-width: 900px;
     display: block;
 }
 
