@@ -12,7 +12,7 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .main {
-    width: 100%;
+    width: 900px;
    /* margin: auto;*/
     display: flexbox;
     flex-direction: column; /* Stack child elements vertically */
