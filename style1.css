@@ -138,7 +138,7 @@ p {
     }
       .main {
         width: 100vw;/* Adjust max-width for landscape orientation */
-        display: flex;
+        flexbox-direction: row;
       }
     #img1 {
         float: none;
