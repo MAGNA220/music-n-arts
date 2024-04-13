@@ -140,6 +140,7 @@ p {
     }
       .main {
         width: 100%;/* Adjust max-width for landscape orientation */
+           position: sticky;
       }
     #img1 {
         float: none;
@@ -167,5 +168,6 @@ p {
 @media screen and (max-width: 728px) {
     .main {
          max-width: 100vw; /* Adjust max-width for landscape orientation */
+         position: sticky;
     }
 }
