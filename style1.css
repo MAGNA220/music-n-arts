@@ -163,8 +163,8 @@ p {
         width:340px;
     }
 }
-
-@media (max-width: 728){
-    .main{width: fit-content;
-         }
+@media screen and (max-width: 728px) {
+    .main {
+        max-width: 100%; /* Adjust max-width for landscape orientation */
+    }
 }
